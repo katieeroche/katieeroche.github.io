@@ -4,3 +4,30 @@
 
 }
 
+nav a {
+
+    color:green
+}
+
+nav a:visited {
+
+    color:blueviolet
+
+}
+
+nav a:hover {
+
+    color:green
+
+}
+
+nav a:active {
+
+    color:aquamarine
+}
+
+nav a:focus {
+
+    color:green
+
+}
