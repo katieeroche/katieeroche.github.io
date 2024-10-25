@@ -23,6 +23,7 @@ h2 {
 
 .Assignments li::before {
     content: "\1F431";
+    text-align: center;
 }
 
 h1,
