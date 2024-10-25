@@ -12,20 +12,24 @@ h1, h2, h3 {
 h1 { 
     text-transform: capitalize;
     font-weight: normal;
-    letter-spacing: .1rem;
-    font-size: 3.5rem;
+    letter-spacing: 1px;
+    font-size: 3.5px;
 }
 
 h2 {
 
-    font-size: 2rem;
+    font-size: 2px;
 
 }
 
 h3 {
 
-    font-size: 1.5rem;
+    font-size: 1.5px;
 
+}
+
+footer {
+    font-size: 0.5px;
 }
 
 
