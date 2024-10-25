@@ -21,10 +21,26 @@ h2 {
     text-align: center;
 }
 
-.Assignments li::before {
-    content: "\1F431";
-    text-align: center;
+.Assignments li {
+    list-style-type: none;
 }
+
+.Assignments hi::before {
+    content: "\1F431";
+    font-size: 1.5rem;
+}
+
+.Assignments a:link,
+.Assignments a:visited {
+    line-height: 2.0;
+}
+
+.Assignments a:hover,
+.Assignments a:active {
+    text-decoration: underline wavy#7AB2D3 2px;
+    text-underline-offset: 5px;
+}
+
 
 h1,
 h2,
