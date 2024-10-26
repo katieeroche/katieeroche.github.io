@@ -15,6 +15,7 @@ header {
 
 h1 {
     text-align: center;
+    text-decoration: underline wavy;
 }
 
 h2 {
@@ -38,7 +39,7 @@ h2 {
 
 .Assignments a:hover,
 .Assignments a:active {
-    text-decoration: underline wavy #7AB2D3 2rem;
+    text-decoration: underline wavy #7AB2D3;
     text-underline-offset: 5rem;
 }
 
